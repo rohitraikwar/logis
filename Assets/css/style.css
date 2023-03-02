@@ -6,7 +6,7 @@
 
 
 #back{
-    background-image: url("/Assets/images/background.png");
+    background-image: url(../images/background.png);
     background-size: cover;
     background-color: rgb(8, 8, 63);
 
@@ -45,7 +45,8 @@
 }
 
 .three {
-    background-image: url("/Assets/images/cta-bg.jpg");
+    background-color:rgba(0, 0, 0, 0.6);
+    background-image: url(../images/cta-bg.jpg);
     background-size:cover;
     height: 200px;  
 }
@@ -103,7 +104,7 @@
     height: 400px;
     background-size: cover;
     background-position: 0rem;
-    background-image: url("/Assets/images/testimonials-bg.jpg");
+    background-image: url(../images/testimonials-bg.jpg);
     background-blend-mode: darken;
    text-align: center;
    align-items: center;
@@ -159,7 +160,7 @@
 
 .banner {
     background-color:rgba(0, 0, 0, 0.6);
-    background-image: url("/Assets/images/card/logistics-service.jpg");
+    background-image: url(../images/card/logistics-service.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 0rem;
